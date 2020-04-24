@@ -6,8 +6,9 @@ def count_strings(array)
     if str.is_a? (String)
       sum += 1 
     end
-  sum
+  
 end
+sum
 end
 
 
